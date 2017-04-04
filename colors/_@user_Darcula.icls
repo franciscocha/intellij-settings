@@ -1,0 +1,42 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-04-04T10:24:57</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-04-04T10:42:36</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="49839d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="396b76" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="3279be" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="6766be" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="6a4e9d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
