@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="ProductServiceImpl" type="CLASS" />
       <mapping pattern="amerock_856" type="PLAIN_TEXT" />
-      <mapping pattern="tnd_856" type="PLAIN_TEXT" />
       <mapping pattern="debitFile" type="PLAIN_TEXT" />
+      <mapping pattern="tnd_856" type="PLAIN_TEXT" />
       <mapping pattern="ParticipationMapper" type="XML" />
     </extensionMap>
   </component>
