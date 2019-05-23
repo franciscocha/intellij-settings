@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ProductServiceImpl" type="CLASS" />
+      <mapping pattern="product-task-distribution-center-quick-ship" type="JSON" />
       <mapping pattern="amerock_856" type="PLAIN_TEXT" />
       <mapping pattern="debitFile" type="PLAIN_TEXT" />
       <mapping pattern="tnd_856" type="PLAIN_TEXT" />
