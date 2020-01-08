@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'api-task-returns'" />
-    <option name="defaultScopeName" value="Project 'api-task-returns'" />
+    <option name="customScope" value="Package com.ferguson.cs.shipping.domain.v2.shipping" />
+    <option name="defaultScopeName" value="Package com.ferguson.cs.shipping.domain.v2.shipping" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'api-task-returns'" />
+    <option name="SEARCH_SCOPE" value="Package com.ferguson.cs.shipping.domain.v2.shipping" />
   </component>
 </application>
