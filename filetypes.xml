@@ -5,6 +5,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".checkstyle" type="XML" />
     </extensionMap>
   </component>
 </application>
