@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="C:/repo/build.com" />
+        <option value="C:/repo/external/amazon/SPA/output" />
       </list>
     </option>
   </component>
